@@ -1,5 +1,8 @@
 # CIFAR-10 CNN and FLASK Deployment
 
+1. [ DATASET. ](#DATASET)
+2. [ Deep Learning - CNN ](#Deep Learning - CNN)
+
 ## 1. DATASET
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 
