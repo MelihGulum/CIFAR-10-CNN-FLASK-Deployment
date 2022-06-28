@@ -42,7 +42,7 @@ The following two figure are outputs of the web programming, FLASK.
 
 1. Fork this repository.
  ```console
-$ git clone [https://github.com/MelihGulum/ASL-Recognition-CNN-OpenCV.git](https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git)
+$ git clone https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git
 
 ```
 
