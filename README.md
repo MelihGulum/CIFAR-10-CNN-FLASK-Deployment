@@ -1,4 +1,5 @@
 # CIFAR-10 CNN and FLASK Deployment
+This project has been done in the field of image processing, which is one of the pursuits of artificial intelligence. In the project ,well known Cıfar10 dataset and CNN architecture, which has proven itself successfully in image processing from deep learning is used.
 
 1. [ DATASET ](#DATASET)
 2. [ Deep Learning - CNN ](#DeepLearning-CNN)
