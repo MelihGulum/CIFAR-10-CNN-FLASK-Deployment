@@ -1,6 +1,6 @@
 # CIFAR-10 CNN and FLASK Deployment
 
-1. [ DATASET ](#DATASET)
+1. [ DATASET ](DATASET)
 2. [ DeepLearning-CNN ](#DeepLearning-CNN)
 3. [ FLASK ](#FLASK)
 4. [ How to Run. ](#How-to-Run)
