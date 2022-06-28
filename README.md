@@ -1,10 +1,11 @@
 # CIFAR-10 CNN and FLASK Deployment
 
-1. [ DATASET ](DATASET)
-2. [ DeepLearning-CNN ](#DeepLearning-CNN)
+1. [ DATASET ](#DATASET)
+2. [ DeepLearning-CNN ](#Deep Learning - CNN)
 3. [ FLASK ](#FLASK)
-4. [ How to Run. ](#How-to-Run)
-
+4. [ How to Run ](#How to Run)
+5. 
+<a name="DATASET"></a>
 ## 1. DATASET
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 
@@ -12,7 +13,8 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 <img src="https://user-images.githubusercontent.com/81585804/176235421-94e66358-a64d-4de9-b30f-67057755cf70.png" width="350" height="250">
 </p>
 
-## 2. DeepLearning-CNN 
+<a name="Deep Learning - CNN"></a>
+## 2. Deep Learning - CNN 
 First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown.
 
 <p align="center">
@@ -28,6 +30,7 @@ After the model training is finished, the accuracy and loss graphs of the traini
 <img src="https://user-images.githubusercontent.com/81585804/176242139-eac5db1e-cce6-4c0f-9fff-3537bc6cc704.png" width="350" height="250">
 </p>
 
+<a name="FLASK"></a>
 ## 3. FLASK
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. 
 * You can load a local image or a url.
@@ -42,7 +45,8 @@ The following two figure are outputs of the web programming, FLASK.
 <img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="600" height="400">
 </p>
 
-## 4. How-to-Run
+<a name="How to Run"></a>
+## 4. How to Run
 
 
 1. Fork this repository.
