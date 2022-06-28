@@ -39,11 +39,11 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 The following two figure are outputs of the web programming, FLASK.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176243667-85bc3c1c-9428-4729-93d9-d26167256ddc.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/81585804/176243667-85bc3c1c-9428-4729-93d9-d26167256ddc.png" width="700" height="400">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="650" height="400">
 </p>
 
 <a name="HowtoRun"></a>
