@@ -14,7 +14,7 @@ First we normalized the data and then made it categorical. Afterwards for data a
 <img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="800" height="250">
 </p>
 
-After the model training is finished, the accuracy and loss graphs of the training are shown in the following two figures. The accuracy of the model is %91.74.
+After the model training is finished, the accuracy and loss graphs of the training are shown in the following two figures. The accuracy of the model is **%91.74**.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81585804/176241918-49af7597-30bb-4e0c-83b9-ded38d1c9f45.png" width="350" height="250">
 </p>
