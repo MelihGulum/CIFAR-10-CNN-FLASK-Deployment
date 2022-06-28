@@ -11,7 +11,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="700" height="250">
+<img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="800" height="250">
 </p>
 
 After the model training is finished, the accuracy and loss graphs of the training are shown in the following two figures.
