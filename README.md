@@ -11,7 +11,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="500" height="250">
+<img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="700" height="250">
 </p>
 
 After the model training is finished, the accuracy and loss graphs of the training are shown in the following two figures.
@@ -30,9 +30,9 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 The following two figure are outputs of the web programming, FLASK.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176243667-85bc3c1c-9428-4729-93d9-d26167256ddc.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/81585804/176243667-85bc3c1c-9428-4729-93d9-d26167256ddc.png" width="600" height="400">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="600" height="400">
 </p>
