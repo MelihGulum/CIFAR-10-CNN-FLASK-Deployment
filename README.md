@@ -1,9 +1,9 @@
 # CIFAR-10 CNN and FLASK Deployment
 
 1. [ DATASET ](#DATASET)
-2. [ DeepLearning-CNN ](#Deep Learning - CNN)
+2. [ Deep Learning -CNN ](#DeepLearning-CNN)
 3. [ FLASK ](#FLASK)
-4. [ How to Run ](#How to Run)
+4. [ How to Run ](#HowtoRun)
 5. 
 <a name="DATASET"></a>
 ## 1. DATASET
@@ -13,7 +13,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 <img src="https://user-images.githubusercontent.com/81585804/176235421-94e66358-a64d-4de9-b30f-67057755cf70.png" width="350" height="250">
 </p>
 
-<a name="Deep Learning - CNN"></a>
+<a name="DeepLearning-CNN"></a>
 ## 2. Deep Learning - CNN 
 First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown.
 
@@ -45,7 +45,7 @@ The following two figure are outputs of the web programming, FLASK.
 <img src="https://user-images.githubusercontent.com/81585804/176243750-8bf26887-b475-4af9-a631-fc29575535ed.png" width="600" height="400">
 </p>
 
-<a name="How to Run"></a>
+<a name="HowtoRun"></a>
 ## 4. How to Run
 
 
