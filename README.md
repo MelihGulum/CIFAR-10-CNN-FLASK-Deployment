@@ -16,7 +16,10 @@ The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset consists of 
 
 <a name="DeepLearning-CNN"></a>
 ## 2. Deep Learning - CNN 
-First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown.
+First we normalized the data and then made it categorical. Afterwards for data augmentation we used ImageDataGenerator. CNN architecture is shown belown. There are some changes in the model. These are: 
+* This model has been strengthened by increasing its complexity. 
+* Optimizer is chosen as Adam and default parameters set.
+* ReduceLROnPlateau and EarlyStopping callbacks added to prevent overfitting and overtraining.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81585804/176241200-1da85e69-edef-4029-9253-a7d45e21f99d.png" width="800" height="250">
